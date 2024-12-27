@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cbestzambranaERA
 - 👀 I’m interested in ... Software Engineering
-- 🌱 I’m currently learning ... Python CLIs
+- 🌱 I’m currently learning ... Python, GO CLIs
 - 💞️ I’m looking to collaborate on ... Front-Stack Mern Projects.
 - 📫 How to reach me ... c.best-zambrana@erasolutions.us
 
